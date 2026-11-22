@@ -310,5 +310,3 @@ The prompts were written in Portuguese. English translations, in order:
     described in the email?"
 19. "Write the frontend unit tests with coverage."
 20. "Document the project in the READMEs."
-21. "Make the three adjustments." *(Git history, Go module name typo and
-    unused JSON tags)*
