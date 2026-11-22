@@ -314,5 +314,3 @@ The prompts were written in Portuguese. English translations, in order:
     junior position?"
 22. "Make the three adjustments." *(Git history, Go module name typo and
     unused JSON tags)*
-23. "Using Claude is not a problem, since the email said I could use AI,
-    right?"
