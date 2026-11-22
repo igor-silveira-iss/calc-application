@@ -310,7 +310,5 @@ The prompts were written in Portuguese. English translations, in order:
     described in the email?"
 19. "Write the frontend unit tests with coverage."
 20. "Document the project in the READMEs."
-21. "Looking at the project as a whole, what is the chance of approval for a
-    junior position?"
-22. "Make the three adjustments." *(Git history, Go module name typo and
+21. "Make the three adjustments." *(Git history, Go module name typo and
     unused JSON tags)*
